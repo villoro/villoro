@@ -4,7 +4,7 @@ My name is **Arnau Villoro** and I am a data engineer.
 
 * 🔥 I love automating almost everything I can 
 * ⚙️ I enjoy building things all by myself.
-* 💻 I'm currently working on [Glovo](https://github.com/Glovo)
+* 💻 I'm currently working at [Glovo](https://github.com/Glovo)
 * 🐍 Most of what I build is done with python
 
 ---
