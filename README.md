@@ -10,7 +10,7 @@ My name is **Arnau Villoro** and I am a data engineer.
 ---
 
 ## About
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=villoro&layout=compact&langs_count=8&hide=HTML,Gnuplot)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=villoro&layout=compact&langs_count=8&hide=HTML,Jupyter%20Notebook)
 ![Villoro's Github Stats](https://github-readme-stats.vercel.app/api?username=villoro&show_icons=true&theme=default)
 
 <br>
